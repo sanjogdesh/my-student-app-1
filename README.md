@@ -1,1 +1,2 @@
-# my-student-app
+# cbz-student-ui
+
