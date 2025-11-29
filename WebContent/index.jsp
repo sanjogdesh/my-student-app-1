@@ -15,7 +15,7 @@ div.ex {
 }
 </style>
 <body>
-	<h1>DEVOPS-JOB Registration Form - Devopsdadus</h1>
+	<h1>DEVOPS-JOB Registration Form - NEW</h1>
 	<div class="ex">
 		<form action="registrationController" method="post">
 			<table style="with: 50%">
